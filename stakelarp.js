@@ -3,7 +3,23 @@
 // @namespace    http://tampermonkey.net/
 // @version      3.0
 // @description  Educational tool demonstrating how browser extensions can modify displayed currency values on websites
-// @include      *://stake.*/*
+// @author       https://t.me/Bennetceo
+// @match        *://stake.com/*
+// @match        *://*.stake.com/*
+// @match        *://stake.bet/*
+// @match        *://stake.games/*
+// @match        *://staketr.com/*
+// @match        *://staketr2.com/*
+// @match        *://staketr3.com/*
+// @match        *://staketr4.com/*
+// @match        *://stake.bz/*
+// @match        *://stake.ac/*
+// @match        *://stake.mba/*
+// @match        *://stake.pet/*
+// @match        *://stake.jp/*
+// @match        *://stake.us/*
+// @match        *://stake.ceo/*
+// @match        *://stake.krd/*
 // @run-at       document-start
 // @grant        GM_getValue
 // @grant        GM_setValue
